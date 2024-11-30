@@ -1,0 +1,8 @@
+---
+title: "Primeiro Post"
+date: 2024-11-30
+---
+
+Considerando a existência de mais de uma camada, a primeira camada recebe os dados diretamente das entradas, sejam elas as amostras de treinamento ou os dados para aplicação da rede treinada. 
+Desta forma, cada um dos neurônios que a compõem receberão todas as variáveis das entradas e aplicarão seus respectivos pesos sinápticos, realizando as combinações lineares com seus respectivos 
+limiares e em seguida aplicando as funções de ativação. Neste caso, todos os neurônios utilizarão a mesma função de ativação, porém cada um deles terá seu próprio conjunto de pesos sinápticos.
